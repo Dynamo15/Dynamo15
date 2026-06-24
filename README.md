@@ -77,3 +77,10 @@
 
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
+<picture><img width="480" height="257" alt="1690932344_new_33" src="https://github.com/user-attachments/assets/7af57eb2-0476-4df9-a5fd-71996af04fed" />
+
