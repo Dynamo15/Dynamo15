@@ -4,7 +4,7 @@
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 
-<img  align="left" alt="goku4" src="https://github.com/user-attachments/assets/d250b8d0-c95e-489c-ba37-a4a58ccebc56" width="250"  />
+<img  align="left" alt="goku4" src="https://github.com/user-attachments/assets/d250b8d0-c95e-489c-ba37-a4a58ccebc56" width="200"  />
 <!------Presentation------->
 
 <h3 align="center">
