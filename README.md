@@ -28,16 +28,22 @@
 <picture> <img align="right" height="256" alt="God Of War @ PixelJoint_com" src="https://github.com/user-attachments/assets/0f9f0470-2f11-4c70-b784-ffb0bdc2f058" width="250"  />
 
 - :school: I am a `Software Developer` at UAEMéx (Universidad Autonoma del Estado de México) in México
-- :trophy: `2022 MCM/ICM` Finalist **&** 4x `Scholarship`
-- :technologist: **Currently working on** `Frontend Development` **&** `Data Science`
-- :boom: You can visit [MY WEBSITE](https://eliochiu.github.io) for some frontend knowledge
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=RicardoSánchez&amp;color=EA4335&amp;style=flat-square)](ricardosah19@gmail.com)
-- :nerd_face: Always believe `"You are what you loved"`
+- :computer: **Open to Work!!** Open to full-time roles and remote freelance opportunities.
+- :technologist: **Currently working on** `Backend Development` **&** `Cybersecurity` 
+- :boom: You can visit [MY WEBSITE](<--PORTFOLIO-->) Inspired by the universe
+- :email: Feel free to **reach me out** **ricardosah19@gmail.com**
+- :nerd_face: There is a driving force more powerful than steam, electricity and atomic energy: the will.
 
 <br>
 
 
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://[www.linkedin.com/in/saurabhmchavan/](https://www.linkedin.com/in/s%C3%A1nchez-herrera-ricardo-396413225/)">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
 
 <!-- LANGUAGES AND TOOLS -->
 <hr>
