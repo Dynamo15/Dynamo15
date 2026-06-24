@@ -42,7 +42,7 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://[www.linkedin.com/in/saurabhmchavan/](https://www.linkedin.com/in/s%C3%A1nchez-herrera-ricardo-396413225/)">
+        <a style="margin-left: 10px;"  target="_blank" href="https://[(https://www.linkedin.com/in/s%C3%A1nchez-herrera-ricardo-396413225/)/]">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
 
 <!-- LANGUAGES AND TOOLS -->
