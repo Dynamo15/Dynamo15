@@ -37,13 +37,15 @@
 <br>
 
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
+<!-- CONNECTION -->
+<hr>      
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" ">Connect with me 🤝 </h3>
 <p align="center">
+  <a href="(https://www.linkedin.com/in/s%C3%A1nchez-herrera-ricardo-396413225/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/s%C3%A1nchez-herrera-ricardo-396413225/" height="30" width="40" /></a>
+</p>
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://[(https://www.linkedin.com/in/s%C3%A1nchez-herrera-ricardo-396413225/)/]">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+
 
 <!-- LANGUAGES AND TOOLS -->
 <hr>
