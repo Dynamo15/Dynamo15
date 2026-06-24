@@ -42,7 +42,9 @@
 <hr>      
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" ">Connect with me 🤝 </h3>
 <p align="center">
-  <a href="(https://www.linkedin.com/in/s%C3%A1nchez-herrera-ricardo-396413225/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/s%C3%A1nchez-herrera-ricardo-396413225/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/s%C3%A1nchez-herrera-ricardo-396413225/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
 </p>
 
 
